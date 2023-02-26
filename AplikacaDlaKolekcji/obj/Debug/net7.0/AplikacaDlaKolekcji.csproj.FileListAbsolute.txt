@@ -1,0 +1,5 @@
+/Users/gerard/Dev/DotNet/TOMEK_CWICZENIA/cwiczenia_tomek/AplikacaDlaKolekcji/obj/Debug/net7.0/AplikacaDlaKolekcji.csproj.AssemblyReference.cache
+/Users/gerard/Dev/DotNet/TOMEK_CWICZENIA/cwiczenia_tomek/AplikacaDlaKolekcji/obj/Debug/net7.0/AplikacaDlaKolekcji.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gerard/Dev/DotNet/TOMEK_CWICZENIA/cwiczenia_tomek/AplikacaDlaKolekcji/obj/Debug/net7.0/AplikacaDlaKolekcji.AssemblyInfoInputs.cache
+/Users/gerard/Dev/DotNet/TOMEK_CWICZENIA/cwiczenia_tomek/AplikacaDlaKolekcji/obj/Debug/net7.0/AplikacaDlaKolekcji.AssemblyInfo.cs
+/Users/gerard/Dev/DotNet/TOMEK_CWICZENIA/cwiczenia_tomek/AplikacaDlaKolekcji/obj/Debug/net7.0/AplikacaDlaKolekcji.csproj.CoreCompileInputs.cache
